@@ -1,0 +1,104 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-brands-400.eot
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-brands-400.eot?
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-brands-400.svg
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-brands-400.ttf
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-brands-400.woff
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-brands-400.woff2
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-regular-400.eot
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-regular-400.eot?
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-regular-400.svg
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-regular-400.ttf
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-regular-400.woff
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-regular-400.woff2
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-solid-900.eot
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-solid-900.eot?
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-solid-900.svg
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-solid-900.ttf
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-solid-900.woff
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/webfonts/fa-solid-900.woff2
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\ajax\libs\font-awesome\5.10.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://thiep-chuc-mung.vercel.app/
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://thiep-chuc-mung.vercel.app/hpbd_icon.ico
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\hpbd_icon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://thiep-chuc-mung.vercel.app/register.css
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\register.css
+Content Type: text/css
+
+Uri: https://thiep-chuc-mung.vercel.app/register.html
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\register.html
+Content Type: text/html
+
+Uri: https://thiep-chuc-mung.vercel.app/register.js
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\register.js
+Content Type: application/javascript
+
+Uri: https://thiep-chuc-mung.vercel.app/script.js
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\script.js
+Content Type: application/javascript
+
+Uri: https://thiep-chuc-mung.vercel.app/style.css
+File Name: C:\Users\duong\Desktop\thiep\thiep-chuc-mung.vercel.app\style.css
+Content Type: text/css
+

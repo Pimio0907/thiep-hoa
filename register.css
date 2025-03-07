@@ -1,0 +1,24 @@
+#registerForm {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    gap: 20px;
+}
+
+.register-row {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+.submit-button {
+    padding: 10px 20px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.result-container {
+    margin-top: 20px;
+    font-weight: 600;
+}
